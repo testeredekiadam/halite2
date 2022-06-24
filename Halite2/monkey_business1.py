@@ -5,7 +5,7 @@ import logging
 from collections import OrderedDict
 
 # GAME START
-game = hlt.Game("monkey_business")
+game = hlt.Game("monkey_business1")
 logging.info("Starting monkey business!")
 
 while True:
@@ -61,9 +61,9 @@ while True:
 
         # list comprehension to find the closest enemy ships sorted by distance
         closest_enemy_ships_list = [entities_by_distance_list[distance][0] for distance in entities_by_distance_list
-                                    if
-                                    isinstance(entities_by_distance_list[distance][0], hlt.entity.Ship)
-                                    and entities_by_distance_list[distance][0] not in my_ships]
+                                      if
+                                      isinstance(entities_by_distance_list[distance][0], hlt.entity.Ship)
+                                      and entities_by_distance_list[distance][0] not in my_ships]
 
         # list comprehension to find my planets which have free docking place
         closest_my_planet_notFull = [entities_by_distance_list[distance][0] for distance in entities_by_distance_list if
@@ -74,34 +74,11 @@ while True:
                                      entities_by_distance_list[distance][0] not in captured_planets and
                                      entities_by_distance_list[distance][0] not in non_captured_planned_planet]
 
-        # mine if there is free docking place
-        if len(closest_my_planet_notFull) > 0:
-            target_planet = closest_my_planet_notFull[0]
-            # decide to attack if ship is attack ship
-            if ship in attack_ships:
-                target_ship = closest_enemy_ships_list[0]
-                navigate_command = ship.navigate(
-                    ship.closest_point_to(target_ship),
-                    game_map,
-                    speed=int(hlt.constants.MAX_SPEED),
-                    ignore_ships=False)
-                if navigate_command:
-                    command_queue.append(navigate_command)
-            # check whether ship can dock
-            elif ship.can_dock(target_planet):
-                command_queue.append(ship.dock(target_planet))
 
-            # travel to the planet
-            else:
-                navigate_command = ship.navigate(
-                    ship.closest_point_to(target_planet),
-                    game_map,
-                    speed=int(hlt.constants.MAX_SPEED),
-                    ignore_ships=False)
 
-                if navigate_command:
-                    command_queue.append(navigate_command)
-
+        # try to mine if there are uncaptured planets
+        if len(closest_empty_planets_list) > 0:
+            target_planet = closest_empty_planets_list[0]
             if ship.can_dock(target_planet):
                 command_queue.append(ship.dock(target_planet))
 
@@ -114,11 +91,6 @@ while True:
 
                 if navigate_command:
                     command_queue.append(navigate_command)
-
-
-
-        # find closest empty planets and capture them
-        # TODO
 
         # find ships to attack if they are close
         elif len(closest_enemy_ships_list) > 0:
