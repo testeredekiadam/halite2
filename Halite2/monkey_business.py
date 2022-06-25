@@ -20,7 +20,7 @@ while True:
             2. attack the ships that go for that planet
             3. Order opponents according to the ship numbers/ planet numbers
             4. Go for bigger opponents
-            5. Separate ships to attack and to occupy 
+            5. Separate ships to attack and to occupy (Done)
      """
     game_map = game.update_map()
 
@@ -114,11 +114,36 @@ while True:
 
                 if navigate_command:
                     command_queue.append(navigate_command)
-
+                    captured_planets.append(target_planet)
 
 
         # find closest empty planets and capture them
-        # TODO
+        
+        elif len(closest_empty_planets_list) > 0:
+            target_planet = closest_empty_planets_list[0]
+            if ship in attack_ships:
+                target_ship = closest_enemy_ships_list[0]
+                navigate_command = ship.navigate(
+                    ship.closest_point_to(target_ship),
+                    game_map,
+                    speed=int(hlt.constants.MAX_SPEED),
+                    ignore_ships = False)
+
+                if navigate_command:
+                    command_queue.append(navigate_command)
+            
+            elif ship.can_dock(target_planet):
+                command_queue.append(ship.dock(target_planet))
+            else:
+                navigate_command = ship.navigate(
+                    ship.closest_point_to(target_planet),
+                    game_map,
+                    speed=int(hlt.constants.MAX_SPEED),
+                    ignore_ships=False)
+                
+                if navigate_command:
+                    command_queue.append(navigate_command)
+                    non_captured_planned_planet.append(target_planet)
 
         # find ships to attack if they are close
         elif len(closest_enemy_ships_list) > 0:
