@@ -4,6 +4,7 @@ import hlt
 import logging
 from collections import OrderedDict
 import search
+import assign
 
 # GAME START
 
@@ -23,7 +24,6 @@ while True:
             2. attack the ships that go for that planet
             3. Order opponents according to the ship numbers/ planet numbers
             4. Go for bigger opponents
-            5. Separate ships to attack and to occupy (Done)
             7. Avoid collisions
             8. first attack center - then cover the opponent's planets
             9. more than 2 players -> go for the outer planet and capture planets while
@@ -52,7 +52,7 @@ while True:
     defcap_ships = []
 
     # keep the track of the ship assignment
-    saved_ships = attack_ships + defcap_ships
+    # saved_ships = attack_ships + defcap_ships
 
     # Here we define the set of commands to be sent to the Halite engine at the end of the turn
     command_queue = []
@@ -68,14 +68,8 @@ while True:
     for ship in my_ships:
 
         # ship assignment
-        if ship not in saved_ships:
-            if len(defcap_ships) * 0.4 <= len(attack_ships):
-                defcap_ships.append(ship)
-            else:
-                attack_ships.append(ship)
+        assign.Assign.assign_ship(ship, defcap_ships, attack_ships)
 
-        # to assign ships to attack / defence&capture
-        ship_id = ship.id
 
         # If the ship is docked
         if ship.docking_status != ship.DockingStatus.UNDOCKED:
@@ -118,7 +112,6 @@ while True:
                                  if isinstance(nearby_entities[distance][0], hlt.entity.Ship)
                                  and nearby_entities[distance][0] in my_ships]
 
-        planets_inside_out = []
 
         # mine if there is free docking place
 
@@ -151,7 +144,7 @@ while True:
 
                 if navigate_command:
                     command_queue.append(navigate_command)
-                    captured_planets.append(target_planet)
+                    assign.Assign.assign_planet(captured_planets, target_planet)
 
         elif len(defcap_empty_planets_list) > 0:
             target_planet = defcap_empty_planets_list[0]

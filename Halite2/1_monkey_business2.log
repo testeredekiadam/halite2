@@ -26,87 +26,467 @@ INFO:root:All ships 3
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 3
 INFO:root:---NEW TURN---
-INFO:root:All ships 3
+INFO:root:All ships 2
 INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
-INFO:root:---NEW TURN---
-INFO:root:All ships 3
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
-INFO:root:---NEW TURN---
-INFO:root:All ships 3
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
-INFO:root:---NEW TURN---
-INFO:root:All ships 3
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
-INFO:root:---NEW TURN---
-INFO:root:All ships 3
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
-INFO:root:---NEW TURN---
-INFO:root:All ships 3
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
+INFO:root:Enemy ships 2
 INFO:root:---NEW TURN---
 INFO:root:All ships 2
 INFO:root:Attack ships 1
+INFO:root:Enemy ships 2
+INFO:root:---NEW TURN---
+INFO:root:All ships 2
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 2
+INFO:root:---NEW TURN---
+INFO:root:All ships 2
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 2
+INFO:root:---NEW TURN---
+INFO:root:All ships 2
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 2
+INFO:root:---NEW TURN---
+INFO:root:All ships 2
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 2
+INFO:root:---NEW TURN---
+INFO:root:All ships 2
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 2
+INFO:root:---NEW TURN---
+INFO:root:All ships 2
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 2
+INFO:root:---NEW TURN---
+INFO:root:All ships 3
+INFO:root:Attack ships 1
 INFO:root:Enemy ships 3
 INFO:root:---NEW TURN---
-INFO:root:All ships 2
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
-INFO:root:---NEW TURN---
-INFO:root:All ships 2
+INFO:root:All ships 3
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 3
 INFO:root:---NEW TURN---
 INFO:root:All ships 3
 INFO:root:Attack ships 1
-INFO:root:Enemy ships 4
+INFO:root:Enemy ships 3
 INFO:root:---NEW TURN---
 INFO:root:All ships 3
 INFO:root:Attack ships 1
-INFO:root:Enemy ships 4
+INFO:root:Enemy ships 3
 INFO:root:---NEW TURN---
 INFO:root:All ships 3
 INFO:root:Attack ships 1
-INFO:root:Enemy ships 4
+INFO:root:Enemy ships 3
 INFO:root:---NEW TURN---
 INFO:root:All ships 3
 INFO:root:Attack ships 1
-INFO:root:Enemy ships 4
+INFO:root:Enemy ships 3
 INFO:root:---NEW TURN---
-INFO:root:All ships 2
+INFO:root:All ships 4
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 4
 INFO:root:---NEW TURN---
-INFO:root:All ships 2
+INFO:root:All ships 4
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 4
 INFO:root:---NEW TURN---
-INFO:root:All ships 3
+INFO:root:All ships 4
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 4
+INFO:root:---NEW TURN---
+INFO:root:All ships 4
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 4
+INFO:root:---NEW TURN---
+INFO:root:All ships 4
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 4
+INFO:root:---NEW TURN---
+INFO:root:All ships 4
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 4
+INFO:root:---NEW TURN---
+INFO:root:All ships 5
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 5
 INFO:root:---NEW TURN---
-INFO:root:All ships 3
+INFO:root:All ships 5
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 5
 INFO:root:---NEW TURN---
-INFO:root:All ships 3
+INFO:root:All ships 5
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 5
 INFO:root:---NEW TURN---
-INFO:root:All ships 3
+INFO:root:All ships 5
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 5
 INFO:root:---NEW TURN---
-INFO:root:All ships 2
+INFO:root:All ships 6
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 5
+INFO:root:---NEW TURN---
+INFO:root:All ships 6
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 5
+INFO:root:---NEW TURN---
+INFO:root:All ships 6
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 6
+INFO:root:---NEW TURN---
+INFO:root:All ships 6
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 7
+INFO:root:---NEW TURN---
+INFO:root:All ships 6
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 7
+INFO:root:---NEW TURN---
+INFO:root:All ships 6
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 6
+INFO:root:---NEW TURN---
+INFO:root:All ships 7
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 6
+INFO:root:---NEW TURN---
+INFO:root:All ships 7
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 6
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 7
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 8
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 8
+INFO:root:---NEW TURN---
+INFO:root:All ships 7
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 8
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 8
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 8
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 9
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 10
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 10
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 10
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 11
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 11
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 12
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 11
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 11
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 10
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 10
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 11
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 11
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 11
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 11
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 11
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 11
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 11
+INFO:root:---NEW TURN---
+INFO:root:All ships 11
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 11
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 13
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 13
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 13
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 13
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 12
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 13
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 16
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 16
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 16
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 16
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 16
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 16
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 19
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 19
+INFO:root:---NEW TURN---
+INFO:root:All ships 7
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 18
+INFO:root:---NEW TURN---
+INFO:root:All ships 6
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 19
+INFO:root:---NEW TURN---
+INFO:root:All ships 6
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 19
+INFO:root:---NEW TURN---
+INFO:root:All ships 6
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 19
+INFO:root:---NEW TURN---
+INFO:root:All ships 6
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 22
+INFO:root:---NEW TURN---
+INFO:root:All ships 7
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 22
+INFO:root:---NEW TURN---
+INFO:root:All ships 7
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 22
+INFO:root:---NEW TURN---
+INFO:root:All ships 7
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 23
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 23
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 23
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 26
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 26
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 27
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 28
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 29
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 29
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 30
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 30
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 31
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 32
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 32
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 32
+INFO:root:---NEW TURN---
+INFO:root:All ships 9
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 34
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 35
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 36
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 38
+INFO:root:---NEW TURN---
+INFO:root:All ships 11
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 38
+INFO:root:---NEW TURN---
+INFO:root:All ships 11
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 38
+INFO:root:---NEW TURN---
+INFO:root:All ships 11
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 41
+INFO:root:---NEW TURN---
+INFO:root:All ships 11
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 42
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 42
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 44
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 43
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 42
+INFO:root:---NEW TURN---
+INFO:root:All ships 10
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 45
+INFO:root:---NEW TURN---
+INFO:root:All ships 12
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 46
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 46
+INFO:root:---NEW TURN---
+INFO:root:All ships 8
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 47
+INFO:root:---NEW TURN---
+INFO:root:All ships 7
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 47
+INFO:root:---NEW TURN---
+INFO:root:All ships 7
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 48
+INFO:root:---NEW TURN---
+INFO:root:All ships 7
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 51
+INFO:root:---NEW TURN---
+INFO:root:All ships 5
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 52
+INFO:root:---NEW TURN---
+INFO:root:All ships 5
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 53
+INFO:root:---NEW TURN---
+INFO:root:All ships 2
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 54
 INFO:root:---NEW TURN---
 INFO:root:All ships 1
 INFO:root:Attack ships 0
-INFO:root:Enemy ships 6
+INFO:root:Enemy ships 54
 INFO:root:---NEW TURN---
