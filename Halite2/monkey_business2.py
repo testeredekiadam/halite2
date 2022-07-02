@@ -8,7 +8,7 @@ import search
 # GAME START
 
 
-game = hlt.Game("monkey_business")
+game = hlt.Game("monkey_business2")
 logging.info("Starting monkey business!")
 
 while True:
@@ -69,7 +69,7 @@ while True:
 
         # ship assignment
         if ship not in saved_ships:
-            if len(defcap_ships) * 0.4 <= len(attack_ships):
+            if len(defcap_ships) * 0.2 <= len(attack_ships):
                 defcap_ships.append(ship)
             else:
                 attack_ships.append(ship)
@@ -82,9 +82,7 @@ while True:
             # Skip this ship
             continue
 
-        # planets for defcap ships
-        defcap_empty_planets = search.Search.defcap_planet_search(ship, game_map)
-        defcap_empty_planets_list = [defcap_empty_planets[distance][0] for distance in defcap_empty_planets]
+
 
 
         # get entities by distance
@@ -153,8 +151,8 @@ while True:
                     command_queue.append(navigate_command)
                     captured_planets.append(target_planet)
 
-        elif len(defcap_empty_planets_list) > 0:
-            target_planet = defcap_empty_planets_list[0]
+        elif len(nearby_empty_planets) > 0:
+            target_planet = nearby_empty_planets[0]
             if ship in attack_ships:
                 target_ship = nearby_enemy_ships[0]
                 navigate_command = ship.navigate(
@@ -195,15 +193,6 @@ while True:
     logging.info("All ships %d" % len(game_map.get_me().all_ships()))
     logging.info("Attack ships %d" % len(attack_ships))
     logging.info("Enemy ships %d" % len(enemy_ships))
-    logging.info("defcap empty list")
-    if len(defcap_empty_planets_list)>0:
-        logging.info(defcap_empty_planets_list[0])
-    # logging.info("nearby entity")
-    # logging.info(nearby_entities)
-    logging.info("nearby empty planets")
-    if len(nearby_empty_planets)>0:
-        logging.info(nearby_empty_planets[0])
-
     game.send_command_queue(command_queue)
     # TURN END
 # GAME END
