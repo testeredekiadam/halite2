@@ -1,6 +1,13 @@
-# Let's start by importing the Halite Starter Kit so we can interface with the Halite engine
+#
+# Firat Erkol – 219204648
+# Finn Doose-Bruns - 220200432
+# Fiona Stürzekarn – 220200224
+# Iana Mazur - 219204806
+# Tobias Edrich - 218201941
+#
+
 import hlt
-# Then let's import the logging module so we can print out information
+
 import logging
 from collections import OrderedDict
 import search
@@ -15,27 +22,8 @@ logging.info("Starting monkey business!")
 while True:
     # TURN START
     # Update the map for the new turn and get the latest version
-    """ We find the closest empty planets and closest enemy ships each turn
-        and hold it into list nearby empty planets for closest empty planets and nearby enemy ships for closest enemy ships.
-        Then decide to attack a ship or occupying a planet.
-        
-        Further strategical options:
-            1. Leave a planet free as bait
-            2. attack the ships that go for that planet
-            3. Order opponents according to the ship numbers/ planet numbers
-            4. Go for bigger opponents
-            7. Avoid collisions
-            8. first attack center - then cover the opponent's planets
-            9. more than 2 players -> go for the outer planet and capture planets while
-            others fight with each other
-            10. defcap attack if a ship is docked on planet, then capture
-            11. defcap search planets. cost = distance, profit = dockable_port
-            12. attack search. cost = distance, profit = docked_ship_number
-     """
     game_map = game.update_map()
 
-    mapX = game_map.width
-    mapY = game_map.height
 
     # arrays to hold some informations
     # captured planets
@@ -70,13 +58,6 @@ while True:
         # ship assignment
         assign.Assign.assign_ship(ship, defcap_ships, attack_ships)
 
-        # my_planets_less_resources = [pln for pln in game_map.all_planets()
-        #                              if pln.is_owned()
-        #                              and pln.owner == ship.owner
-        #                              and pln.remaining_resources <= 10
-        #                              and len(pln.all_docked_ships()) > 1]
-        #
-        # for planet in my_planets_less_resources:
         # If the ship is docked
         if ship.docking_status != ship.DockingStatus.UNDOCKED:
             continue
@@ -183,6 +164,17 @@ while True:
         # find ships to attack if they are close
         elif len(nearby_enemy_ships) > 0:
             target_ship = nearby_enemy_ships[0]
+            navigate_command = ship.navigate(
+                ship.closest_point_to(target_ship),
+                game_map,
+                speed=int(hlt.constants.MAX_SPEED),
+                ignore_ships=False)
+
+            if navigate_command:
+                command_queue.append(navigate_command)
+
+        elif len(attack_ships_target_planets_list) > 0:
+            target_ship = attack_ships_target_planets_list[0]
             navigate_command = ship.navigate(
                 ship.closest_point_to(target_ship),
                 game_map,

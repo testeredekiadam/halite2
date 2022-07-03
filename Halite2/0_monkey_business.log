@@ -6,1233 +6,1103 @@ INFO:root:All ships 3
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 3
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 2) at position: (x = 112.88314962969024, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 4) at position: (x = 43.14975438109275, y = 92.60932418966769), with radius = 6.451701643634192
 INFO:root:nearby empty planets
 INFO:root:12
-INFO:root:Entity Planet (id: 7) at position: (x = 141.90470066392433, y = 25.15809378257957), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 4) at position: (x = 43.14975438109275, y = 92.60932418966769), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 3
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 3
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 2) at position: (x = 112.88314962969024, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:nearby empty planets
-INFO:root:14
-INFO:root:Entity Planet (id: 2) at position: (x = 112.88314962969024, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:---NEW TURN---
-INFO:root:All ships 3
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 2) at position: (x = 112.88314962969024, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:nearby empty planets
-INFO:root:14
-INFO:root:Entity Planet (id: 2) at position: (x = 112.88314962969024, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:---NEW TURN---
-INFO:root:All ships 3
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 2) at position: (x = 112.88314962969024, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:nearby empty planets
-INFO:root:13
-INFO:root:Entity Planet (id: 2) at position: (x = 112.88314962969024, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:---NEW TURN---
-INFO:root:All ships 3
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 2) at position: (x = 112.88314962969024, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:nearby empty planets
-INFO:root:13
-INFO:root:Entity Planet (id: 2) at position: (x = 112.88314962969024, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:---NEW TURN---
-INFO:root:All ships 3
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 1) at position: (x = 112.88314962969024, y = 87.11685037030976), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 4) at position: (x = 43.14975438109275, y = 92.60932418966769), with radius = 6.451701643634192
 INFO:root:nearby empty planets
 INFO:root:12
-INFO:root:Entity Planet (id: 1) at position: (x = 112.88314962969024, y = 87.11685037030976), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 4) at position: (x = 43.14975438109275, y = 92.60932418966769), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 3
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 3
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 1) at position: (x = 112.88314962969024, y = 87.11685037030976), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 4) at position: (x = 43.14975438109275, y = 92.60932418966769), with radius = 6.451701643634192
 INFO:root:nearby empty planets
 INFO:root:12
-INFO:root:Entity Planet (id: 1) at position: (x = 112.88314962969024, y = 87.11685037030976), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 4) at position: (x = 43.14975438109275, y = 92.60932418966769), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 3
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 3
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 1) at position: (x = 112.88314962969024, y = 87.11685037030976), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:nearby empty planets
-INFO:root:12
-INFO:root:Entity Planet (id: 1) at position: (x = 112.88314962969024, y = 87.11685037030976), with radius = 4.532373157536028
+INFO:root:10
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 3
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 3
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:12
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:10
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 3
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 3
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:12
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:10
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
 INFO:root:---NEW TURN---
 INFO:root:All ships 3
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 3
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:12
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:10
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
 INFO:root:---NEW TURN---
 INFO:root:All ships 3
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 3
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:10
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:---NEW TURN---
+INFO:root:All ships 3
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 3
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:10
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:---NEW TURN---
+INFO:root:All ships 2
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 2
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:12
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:10
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
 INFO:root:---NEW TURN---
-INFO:root:All ships 3
+INFO:root:All ships 2
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 2
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:12
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:10
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:---NEW TURN---
+INFO:root:All ships 2
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 2
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:10
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:---NEW TURN---
+INFO:root:All ships 2
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 2
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:10
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
 INFO:root:---NEW TURN---
 INFO:root:All ships 3
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 3
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
 INFO:root:nearby empty planets
-INFO:root:12
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:10
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
 INFO:root:All ships 3
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 3
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:nearby empty planets
-INFO:root:12
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:---NEW TURN---
-INFO:root:All ships 4
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 1) at position: (x = 112.88314962969024, y = 87.11685037030976), with radius = 4.532373157536028
-INFO:root:nearby empty planets
-INFO:root:11
-INFO:root:Entity Planet (id: 1) at position: (x = 112.88314962969024, y = 87.11685037030976), with radius = 4.532373157536028
-INFO:root:---NEW TURN---
-INFO:root:All ships 4
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 1) at position: (x = 112.88314962969024, y = 87.11685037030976), with radius = 4.532373157536028
-INFO:root:nearby empty planets
-INFO:root:12
-INFO:root:Entity Planet (id: 1) at position: (x = 112.88314962969024, y = 87.11685037030976), with radius = 4.532373157536028
-INFO:root:---NEW TURN---
-INFO:root:All ships 4
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:nearby empty planets
-INFO:root:11
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:---NEW TURN---
-INFO:root:All ships 4
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 3
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:nearby empty planets
-INFO:root:11
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:---NEW TURN---
-INFO:root:All ships 4
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 4
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:nearby empty planets
-INFO:root:11
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:---NEW TURN---
-INFO:root:All ships 4
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 4
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:nearby empty planets
-INFO:root:11
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
-INFO:root:---NEW TURN---
-INFO:root:All ships 5
-INFO:root:Attack ships 1
-INFO:root:Enemy ships 4
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
 INFO:root:nearby empty planets
 INFO:root:10
-INFO:root:Entity Planet (id: 0) at position: (x = 127.11685037030976, y = 87.11685037030976), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
-INFO:root:All ships 5
+INFO:root:All ships 3
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 3
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
+INFO:root:nearby empty planets
+INFO:root:10
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
+INFO:root:---NEW TURN---
+INFO:root:All ships 3
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 3
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
+INFO:root:nearby empty planets
+INFO:root:10
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
+INFO:root:---NEW TURN---
+INFO:root:All ships 3
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 3
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
+INFO:root:nearby empty planets
+INFO:root:10
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
+INFO:root:---NEW TURN---
+INFO:root:All ships 3
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 3
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
+INFO:root:nearby empty planets
+INFO:root:10
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
+INFO:root:---NEW TURN---
+INFO:root:All ships 4
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 4
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
 INFO:root:nearby empty planets
-INFO:root:11
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:10
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
+INFO:root:---NEW TURN---
+INFO:root:All ships 4
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 4
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
+INFO:root:nearby empty planets
+INFO:root:10
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
+INFO:root:---NEW TURN---
+INFO:root:All ships 4
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 4
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
+INFO:root:nearby empty planets
+INFO:root:10
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
+INFO:root:---NEW TURN---
+INFO:root:All ships 4
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 4
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
+INFO:root:nearby empty planets
+INFO:root:10
+INFO:root:Entity Planet (id: 8) at position: (x = 32.97437863627103, y = 116.45235212573076), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
 INFO:root:All ships 5
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 5
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:11
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:9
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 5
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 5
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:11
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:9
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 5
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 5
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:11
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:8
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 5
 INFO:root:Attack ships 1
-INFO:root:Enemy ships 6
+INFO:root:Enemy ships 5
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:11
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:8
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 6
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 6
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:10
-INFO:root:Entity Planet (id: 0) at position: (x = 127.11685037030976, y = 87.11685037030976), with radius = 4.532373157536028
+INFO:root:8
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 6
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 6
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:11
-INFO:root:Entity Planet (id: 3) at position: (x = 127.11685037030976, y = 72.88314962969024), with radius = 4.532373157536028
+INFO:root:8
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 6
 INFO:root:Attack ships 1
-INFO:root:Enemy ships 7
+INFO:root:Enemy ships 6
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 0) at position: (x = 127.11685037030976, y = 87.11685037030976), with radius = 4.532373157536028
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:10
-INFO:root:Entity Planet (id: 0) at position: (x = 127.11685037030976, y = 87.11685037030976), with radius = 4.532373157536028
+INFO:root:8
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
+INFO:root:---NEW TURN---
+INFO:root:All ships 6
+INFO:root:Attack ships 1
+INFO:root:Enemy ships 6
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:8
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 7
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 7
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 5) at position: (x = 66.30261408941298, y = 86.34314506731876), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:9
-INFO:root:Entity Planet (id: 5) at position: (x = 66.30261408941298, y = 86.34314506731876), with radius = 11.918670153714945
+INFO:root:8
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 7
 INFO:root:Attack ships 1
 INFO:root:Enemy ships 7
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 8) at position: (x = 173.697385910587, y = 73.65685493268124), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:9
-INFO:root:Entity Planet (id: 8) at position: (x = 173.697385910587, y = 73.65685493268124), with radius = 11.918670153714945
+INFO:root:8
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 7
 INFO:root:Attack ships 1
-INFO:root:Enemy ships 8
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 9) at position: (x = 151.79268524666273, y = 128.49876115010167), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:9
-INFO:root:Entity Planet (id: 9) at position: (x = 151.79268524666273, y = 128.49876115010167), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 8
-INFO:root:Attack ships 2
-INFO:root:Enemy ships 8
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 5) at position: (x = 66.30261408941298, y = 86.34314506731876), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:9
-INFO:root:Entity Planet (id: 5) at position: (x = 66.30261408941298, y = 86.34314506731876), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 8
-INFO:root:Attack ships 2
-INFO:root:Enemy ships 8
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 5) at position: (x = 66.30261408941298, y = 86.34314506731876), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:9
-INFO:root:Entity Planet (id: 5) at position: (x = 66.30261408941298, y = 86.34314506731876), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 8
-INFO:root:Attack ships 2
-INFO:root:Enemy ships 8
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 9) at position: (x = 151.79268524666273, y = 128.49876115010167), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:9
-INFO:root:Entity Planet (id: 9) at position: (x = 151.79268524666273, y = 128.49876115010167), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 9
-INFO:root:Attack ships 2
 INFO:root:Enemy ships 7
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 0) at position: (x = 127.11685037030976, y = 87.11685037030976), with radius = 4.532373157536028
-INFO:root:nearby empty planets
-INFO:root:10
-INFO:root:Entity Planet (id: 0) at position: (x = 127.11685037030976, y = 87.11685037030976), with radius = 4.532373157536028
-INFO:root:---NEW TURN---
-INFO:root:All ships 9
-INFO:root:Attack ships 2
-INFO:root:Enemy ships 7
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 0) at position: (x = 127.11685037030976, y = 87.11685037030976), with radius = 4.532373157536028
-INFO:root:nearby empty planets
-INFO:root:10
-INFO:root:Entity Planet (id: 0) at position: (x = 127.11685037030976, y = 87.11685037030976), with radius = 4.532373157536028
-INFO:root:---NEW TURN---
-INFO:root:All ships 8
-INFO:root:Attack ships 2
-INFO:root:Enemy ships 7
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 5) at position: (x = 66.30261408941298, y = 86.34314506731876), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:9
-INFO:root:Entity Planet (id: 5) at position: (x = 66.30261408941298, y = 86.34314506731876), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 9
-INFO:root:Attack ships 2
-INFO:root:Enemy ships 7
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
 INFO:root:8
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
-INFO:root:All ships 8
-INFO:root:Attack ships 2
+INFO:root:All ships 7
+INFO:root:Attack ships 1
 INFO:root:Enemy ships 7
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 8) at position: (x = 173.697385910587, y = 73.65685493268124), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
 INFO:root:8
-INFO:root:Entity Planet (id: 8) at position: (x = 173.697385910587, y = 73.65685493268124), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 9
 INFO:root:Attack ships 2
 INFO:root:Enemy ships 8
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 8) at position: (x = 173.697385910587, y = 73.65685493268124), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
 INFO:root:8
-INFO:root:Entity Planet (id: 8) at position: (x = 173.697385910587, y = 73.65685493268124), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
-INFO:root:All ships 10
+INFO:root:All ships 9
 INFO:root:Attack ships 2
 INFO:root:Enemy ships 8
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 8) at position: (x = 173.697385910587, y = 73.65685493268124), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
 INFO:root:8
-INFO:root:Entity Planet (id: 8) at position: (x = 173.697385910587, y = 73.65685493268124), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
-INFO:root:All ships 10
-INFO:root:Attack ships 2
-INFO:root:Enemy ships 8
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 8) at position: (x = 173.697385910587, y = 73.65685493268124), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:8
-INFO:root:Entity Planet (id: 8) at position: (x = 173.697385910587, y = 73.65685493268124), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 10
+INFO:root:All ships 9
 INFO:root:Attack ships 2
 INFO:root:Enemy ships 9
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 8) at position: (x = 173.697385910587, y = 73.65685493268124), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
 INFO:root:8
-INFO:root:Entity Planet (id: 8) at position: (x = 173.697385910587, y = 73.65685493268124), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
-INFO:root:All ships 10
+INFO:root:All ships 9
 INFO:root:Attack ships 2
-INFO:root:Enemy ships 8
+INFO:root:Enemy ships 9
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:8
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 10
-INFO:root:Attack ships 2
-INFO:root:Enemy ships 8
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:8
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:7
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 11
 INFO:root:Attack ships 2
-INFO:root:Enemy ships 9
+INFO:root:Enemy ships 10
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 7) at position: (x = 141.90470066392433, y = 25.15809378257957), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:8
-INFO:root:Entity Planet (id: 7) at position: (x = 141.90470066392433, y = 25.15809378257957), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 12
-INFO:root:Attack ships 2
-INFO:root:Enemy ships 9
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 8) at position: (x = 173.697385910587, y = 73.65685493268124), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:8
-INFO:root:Entity Planet (id: 8) at position: (x = 173.697385910587, y = 73.65685493268124), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 12
-INFO:root:Attack ships 2
-INFO:root:Enemy ships 9
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 9) at position: (x = 151.79268524666273, y = 128.49876115010167), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 1) at position: (x = 112.96765145031515, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
 INFO:root:7
-INFO:root:Entity Planet (id: 9) at position: (x = 151.79268524666273, y = 128.49876115010167), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
+INFO:root:---NEW TURN---
+INFO:root:All ships 11
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 10
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:6
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
+INFO:root:---NEW TURN---
+INFO:root:All ships 11
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 10
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:6
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
+INFO:root:---NEW TURN---
+INFO:root:All ships 11
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 11
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:6
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 13
 INFO:root:Attack ships 2
-INFO:root:Enemy ships 10
+INFO:root:Enemy ships 12
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 9) at position: (x = 151.79268524666273, y = 128.49876115010167), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:7
-INFO:root:Entity Planet (id: 9) at position: (x = 151.79268524666273, y = 128.49876115010167), with radius = 11.918670153714945
+INFO:root:6
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
+INFO:root:---NEW TURN---
+INFO:root:All ships 13
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 12
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:6
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
+INFO:root:---NEW TURN---
+INFO:root:All ships 13
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 12
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:6
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
+INFO:root:---NEW TURN---
+INFO:root:All ships 12
+INFO:root:Attack ships 2
+INFO:root:Enemy ships 12
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:6
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 14
 INFO:root:Attack ships 3
-INFO:root:Enemy ships 10
+INFO:root:Enemy ships 13
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:7
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:6
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 14
 INFO:root:Attack ships 3
-INFO:root:Enemy ships 9
+INFO:root:Enemy ships 13
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 2) at position: (x = 112.96765145031515, y = 72.96765145031515), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:7
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:6
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
-INFO:root:All ships 15
+INFO:root:All ships 14
 INFO:root:Attack ships 3
-INFO:root:Enemy ships 11
+INFO:root:Enemy ships 13
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 7) at position: (x = 141.90470066392433, y = 25.15809378257957), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 0) at position: (x = 127.03234854968485, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:7
-INFO:root:Entity Planet (id: 7) at position: (x = 141.90470066392433, y = 25.15809378257957), with radius = 11.918670153714945
+INFO:root:5
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
+INFO:root:---NEW TURN---
+INFO:root:All ships 14
+INFO:root:Attack ships 3
+INFO:root:Enemy ships 14
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 0) at position: (x = 127.03234854968485, y = 87.03234854968485), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:5
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 16
 INFO:root:Attack ships 3
-INFO:root:Enemy ships 11
+INFO:root:Enemy ships 15
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 9) at position: (x = 151.79268524666273, y = 128.49876115010167), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 0) at position: (x = 127.03234854968485, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:6
-INFO:root:Entity Planet (id: 9) at position: (x = 151.79268524666273, y = 128.49876115010167), with radius = 11.918670153714945
+INFO:root:5
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 16
 INFO:root:Attack ships 3
-INFO:root:Enemy ships 11
+INFO:root:Enemy ships 16
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 9) at position: (x = 151.79268524666273, y = 128.49876115010167), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 0) at position: (x = 127.03234854968485, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:6
-INFO:root:Entity Planet (id: 9) at position: (x = 151.79268524666273, y = 128.49876115010167), with radius = 11.918670153714945
+INFO:root:4
+INFO:root:Entity Planet (id: 5) at position: (x = 75.11080588478305, y = 58.41285235423954), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
 INFO:root:All ships 17
 INFO:root:Attack ships 3
-INFO:root:Enemy ships 12
+INFO:root:Enemy ships 16
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 9) at position: (x = 151.79268524666273, y = 128.49876115010167), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 0) at position: (x = 127.03234854968485, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:6
-INFO:root:Entity Planet (id: 9) at position: (x = 151.79268524666273, y = 128.49876115010167), with radius = 11.918670153714945
+INFO:root:4
+INFO:root:Entity Planet (id: 0) at position: (x = 127.03234854968485, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:---NEW TURN---
-INFO:root:All ships 18
+INFO:root:All ships 17
 INFO:root:Attack ships 3
-INFO:root:Enemy ships 13
+INFO:root:Enemy ships 17
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 0) at position: (x = 127.03234854968485, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:5
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 18
-INFO:root:Attack ships 3
-INFO:root:Enemy ships 13
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:5
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:3
+INFO:root:Entity Planet (id: 0) at position: (x = 127.03234854968485, y = 87.03234854968485), with radius = 4.472621347149545
 INFO:root:---NEW TURN---
 INFO:root:All ships 19
 INFO:root:Attack ships 3
-INFO:root:Enemy ships 13
+INFO:root:Enemy ships 18
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:nearby empty planets
-INFO:root:5
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:2
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
-INFO:root:All ships 20
-INFO:root:Attack ships 4
-INFO:root:Enemy ships 13
+INFO:root:All ships 19
+INFO:root:Attack ships 3
+INFO:root:Enemy ships 18
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:nearby empty planets
-INFO:root:5
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:2
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
-INFO:root:All ships 20
-INFO:root:Attack ships 4
-INFO:root:Enemy ships 14
+INFO:root:All ships 19
+INFO:root:Attack ships 3
+INFO:root:Enemy ships 19
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:nearby empty planets
-INFO:root:5
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:2
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
-INFO:root:All ships 21
-INFO:root:Attack ships 4
-INFO:root:Enemy ships 15
+INFO:root:All ships 19
+INFO:root:Attack ships 3
+INFO:root:Enemy ships 20
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:nearby empty planets
-INFO:root:4
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
+INFO:root:2
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
 INFO:root:All ships 22
 INFO:root:Attack ships 4
-INFO:root:Enemy ships 15
+INFO:root:Enemy ships 21
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
+INFO:root:2
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
 INFO:root:All ships 23
 INFO:root:Attack ships 4
-INFO:root:Enemy ships 15
+INFO:root:Enemy ships 21
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
+INFO:root:2
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
+INFO:root:---NEW TURN---
+INFO:root:All ships 23
+INFO:root:Attack ships 4
+INFO:root:Enemy ships 22
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
+INFO:root:nearby empty planets
+INFO:root:2
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
+INFO:root:---NEW TURN---
+INFO:root:All ships 23
+INFO:root:Attack ships 4
+INFO:root:Enemy ships 23
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
+INFO:root:nearby empty planets
+INFO:root:2
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
 INFO:root:All ships 24
 INFO:root:Attack ships 4
-INFO:root:Enemy ships 17
+INFO:root:Enemy ships 24
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
+INFO:root:2
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
 INFO:root:All ships 24
 INFO:root:Attack ships 4
-INFO:root:Enemy ships 16
+INFO:root:Enemy ships 24
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 10) at position: (x = 38.84512751682021, y = 37.27128956825491), with radius = 9.737877640222699
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 10) at position: (x = 38.84512751682021, y = 37.27128956825491), with radius = 9.737877640222699
+INFO:root:1
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
 INFO:root:All ships 24
 INFO:root:Attack ships 4
-INFO:root:Enemy ships 16
+INFO:root:Enemy ships 22
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 10) at position: (x = 38.84512751682021, y = 37.27128956825491), with radius = 9.737877640222699
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 10) at position: (x = 38.84512751682021, y = 37.27128956825491), with radius = 9.737877640222699
+INFO:root:1
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
-INFO:root:All ships 26
+INFO:root:All ships 27
 INFO:root:Attack ships 5
-INFO:root:Enemy ships 18
+INFO:root:Enemy ships 23
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
-INFO:root:---NEW TURN---
-INFO:root:All ships 28
-INFO:root:Attack ships 5
-INFO:root:Enemy ships 18
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
-INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
+INFO:root:1
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
 INFO:root:All ships 28
 INFO:root:Attack ships 5
-INFO:root:Enemy ships 18
+INFO:root:Enemy ships 22
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
+INFO:root:1
+INFO:root:Entity Planet (id: 9) at position: (x = 70.74006469495848, y = 15.60104019084055), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
 INFO:root:All ships 28
 INFO:root:Attack ships 5
-INFO:root:Enemy ships 19
+INFO:root:Enemy ships 21
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
+INFO:root:Entity Planet (id: 3) at position: (x = 127.03234854968485, y = 72.96765145031515), with radius = 4.472621347149545
 INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
+INFO:root:1
+INFO:root:Entity Planet (id: 3) at position: (x = 127.03234854968485, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:---NEW TURN---
+INFO:root:All ships 28
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 22
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 3) at position: (x = 127.03234854968485, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:1
+INFO:root:Entity Planet (id: 3) at position: (x = 127.03234854968485, y = 72.96765145031515), with radius = 4.472621347149545
 INFO:root:---NEW TURN---
 INFO:root:All ships 29
 INFO:root:Attack ships 5
+INFO:root:Enemy ships 22
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 31
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 21
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 32
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 21
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 32
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 22
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 31
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 20
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 31
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 20
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 28
+INFO:root:Attack ships 5
 INFO:root:Enemy ships 19
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 10) at position: (x = 38.84512751682021, y = 37.27128956825491), with radius = 9.737877640222699
 INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 10) at position: (x = 38.84512751682021, y = 37.27128956825491), with radius = 9.737877640222699
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 28
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 18
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
 INFO:root:---NEW TURN---
 INFO:root:All ships 31
 INFO:root:Attack ships 5
 INFO:root:Enemy ships 19
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
 INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
+INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 33
+INFO:root:All ships 32
 INFO:root:Attack ships 6
-INFO:root:Enemy ships 22
+INFO:root:Enemy ships 19
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
 INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
+INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 33
+INFO:root:All ships 32
 INFO:root:Attack ships 6
+INFO:root:Enemy ships 19
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 28
+INFO:root:Attack ships 5
 INFO:root:Enemy ships 20
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
 INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 28
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 21
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 3) at position: (x = 127.03234854968485, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:1
+INFO:root:Entity Planet (id: 3) at position: (x = 127.03234854968485, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:---NEW TURN---
+INFO:root:All ships 29
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 20
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 3) at position: (x = 127.03234854968485, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:1
+INFO:root:Entity Planet (id: 3) at position: (x = 127.03234854968485, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:---NEW TURN---
+INFO:root:All ships 31
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 18
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 3) at position: (x = 127.03234854968485, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:nearby empty planets
+INFO:root:1
+INFO:root:Entity Planet (id: 3) at position: (x = 127.03234854968485, y = 72.96765145031515), with radius = 4.472621347149545
+INFO:root:---NEW TURN---
+INFO:root:All ships 31
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 18
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 31
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 17
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 30
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 16
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 29
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 15
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 29
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 15
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 33
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 16
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 32
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 15
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 32
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 15
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 30
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 15
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 31
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 16
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 31
+INFO:root:Attack ships 5
+INFO:root:Enemy ships 15
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
 INFO:root:---NEW TURN---
 INFO:root:All ships 34
 INFO:root:Attack ships 6
-INFO:root:Enemy ships 21
+INFO:root:Enemy ships 14
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
 INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
+INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 37
+INFO:root:All ships 34
 INFO:root:Attack ships 6
-INFO:root:Enemy ships 23
+INFO:root:Enemy ships 15
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
 INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
+INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 38
-INFO:root:Attack ships 7
-INFO:root:Enemy ships 23
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 10) at position: (x = 38.84512751682021, y = 37.27128956825491), with radius = 9.737877640222699
-INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 10) at position: (x = 38.84512751682021, y = 37.27128956825491), with radius = 9.737877640222699
-INFO:root:---NEW TURN---
-INFO:root:All ships 37
+INFO:root:All ships 35
 INFO:root:Attack ships 6
-INFO:root:Enemy ships 23
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
-INFO:root:nearby empty planets
-INFO:root:3
-INFO:root:Entity Planet (id: 11) at position: (x = 197.1873478767008, y = 35.07498130395405), with radius = 9.737877640222699
-INFO:root:---NEW TURN---
-INFO:root:All ships 40
-INFO:root:Attack ships 7
-INFO:root:Enemy ships 25
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
-INFO:root:nearby empty planets
-INFO:root:2
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
-INFO:root:---NEW TURN---
-INFO:root:All ships 39
-INFO:root:Attack ships 7
-INFO:root:Enemy ships 25
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
-INFO:root:nearby empty planets
-INFO:root:2
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
-INFO:root:---NEW TURN---
-INFO:root:All ships 40
-INFO:root:Attack ships 7
-INFO:root:Enemy ships 27
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
-INFO:root:nearby empty planets
-INFO:root:2
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
-INFO:root:---NEW TURN---
-INFO:root:All ships 43
-INFO:root:Attack ships 7
-INFO:root:Enemy ships 29
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
-INFO:root:nearby empty planets
-INFO:root:1
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
-INFO:root:---NEW TURN---
-INFO:root:All ships 42
-INFO:root:Attack ships 7
-INFO:root:Enemy ships 28
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
-INFO:root:nearby empty planets
-INFO:root:1
-INFO:root:Entity Planet (id: 12) at position: (x = 201.1548724831798, y = 122.72871043174509), with radius = 9.737877640222699
-INFO:root:---NEW TURN---
-INFO:root:All ships 42
-INFO:root:Attack ships 7
-INFO:root:Enemy ships 29
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 44
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 30
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 44
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 30
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 43
-INFO:root:Attack ships 7
-INFO:root:Enemy ships 30
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 45
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 30
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 44
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 28
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 45
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 29
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 49
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 27
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 47
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 25
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 48
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 26
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 45
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 24
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 4) at position: (x = 98.09529933607567, y = 134.84190621742044), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:1
-INFO:root:Entity Planet (id: 4) at position: (x = 98.09529933607567, y = 134.84190621742044), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 45
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 24
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 46
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 26
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 45
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 23
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 45
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 21
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 47
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 22
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 50
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 23
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 49
-INFO:root:Attack ships 8
-INFO:root:Enemy ships 21
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 50
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 23
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 51
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 23
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 51
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 21
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 52
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 21
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 54
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 22
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 52
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 24
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 53
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 24
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 53
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 24
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 53
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 23
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 55
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 26
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 57
-INFO:root:Attack ships 10
-INFO:root:Enemy ships 25
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 57
-INFO:root:Attack ships 10
-INFO:root:Enemy ships 23
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 57
-INFO:root:Attack ships 10
-INFO:root:Enemy ships 22
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 56
-INFO:root:Attack ships 10
-INFO:root:Enemy ships 23
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 55
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 19
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:1
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 53
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 18
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:1
-INFO:root:Entity Planet (id: 6) at position: (x = 88.20731475333727, y = 31.50123884989833), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 55
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 19
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 55
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 18
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 55
-INFO:root:Attack ships 9
-INFO:root:Enemy ships 18
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 57
-INFO:root:Attack ships 10
-INFO:root:Enemy ships 19
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 58
-INFO:root:Attack ships 10
-INFO:root:Enemy ships 19
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 57
-INFO:root:Attack ships 10
-INFO:root:Enemy ships 20
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 59
-INFO:root:Attack ships 10
-INFO:root:Enemy ships 18
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 60
-INFO:root:Attack ships 10
-INFO:root:Enemy ships 17
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 4) at position: (x = 98.09529933607567, y = 134.84190621742044), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:1
-INFO:root:Entity Planet (id: 4) at position: (x = 98.09529933607567, y = 134.84190621742044), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 62
-INFO:root:Attack ships 11
-INFO:root:Enemy ships 16
-INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 4) at position: (x = 98.09529933607567, y = 134.84190621742044), with radius = 11.918670153714945
-INFO:root:nearby empty planets
-INFO:root:1
-INFO:root:Entity Planet (id: 4) at position: (x = 98.09529933607567, y = 134.84190621742044), with radius = 11.918670153714945
-INFO:root:---NEW TURN---
-INFO:root:All ships 64
-INFO:root:Attack ships 11
-INFO:root:Enemy ships 17
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 64
-INFO:root:Attack ships 11
-INFO:root:Enemy ships 17
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 66
-INFO:root:Attack ships 11
 INFO:root:Enemy ships 16
 INFO:root:defcap empty list
 INFO:root:nearby empty planets
 INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 67
-INFO:root:Attack ships 11
-INFO:root:Enemy ships 16
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 66
-INFO:root:Attack ships 11
+INFO:root:All ships 34
+INFO:root:Attack ships 6
 INFO:root:Enemy ships 15
 INFO:root:defcap empty list
 INFO:root:nearby empty planets
 INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 65
-INFO:root:Attack ships 11
-INFO:root:Enemy ships 15
+INFO:root:All ships 32
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 14
 INFO:root:defcap empty list
 INFO:root:nearby empty planets
 INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 66
-INFO:root:Attack ships 11
-INFO:root:Enemy ships 15
-INFO:root:defcap empty list
-INFO:root:nearby empty planets
-INFO:root:0
-INFO:root:---NEW TURN---
-INFO:root:All ships 68
-INFO:root:Attack ships 12
+INFO:root:All ships 31
+INFO:root:Attack ships 5
 INFO:root:Enemy ships 13
 INFO:root:defcap empty list
 INFO:root:nearby empty planets
 INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 66
-INFO:root:Attack ships 11
+INFO:root:All ships 35
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 13
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 35
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 13
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 33
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 13
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 33
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 13
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 35
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 13
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 36
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 13
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 37
+INFO:root:Attack ships 6
 INFO:root:Enemy ships 11
 INFO:root:defcap empty list
 INFO:root:nearby empty planets
 INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 68
-INFO:root:Attack ships 12
-INFO:root:Enemy ships 11
+INFO:root:All ships 35
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 10
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 7) at position: (x = 164.88919411521698, y = 101.58714764576047), with radius = 6.451701643634192
+INFO:root:nearby empty planets
+INFO:root:1
+INFO:root:Entity Planet (id: 7) at position: (x = 164.88919411521698, y = 101.58714764576047), with radius = 6.451701643634192
+INFO:root:---NEW TURN---
+INFO:root:All ships 37
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 10
 INFO:root:defcap empty list
 INFO:root:nearby empty planets
 INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 70
-INFO:root:Attack ships 12
+INFO:root:All ships 37
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 10
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 36
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 10
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 37
+INFO:root:Attack ships 6
 INFO:root:Enemy ships 9
 INFO:root:defcap empty list
 INFO:root:nearby empty planets
 INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 69
-INFO:root:Attack ships 12
-INFO:root:Enemy ships 7
+INFO:root:All ships 38
+INFO:root:Attack ships 7
+INFO:root:Enemy ships 10
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 5) at position: (x = 66.30261408941298, y = 86.34314506731876), with radius = 11.918670153714945
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 38
+INFO:root:Attack ships 7
+INFO:root:Enemy ships 9
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 36
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 9
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 36
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 8
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 37
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 6
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 11) at position: (x = 169.25993530504155, y = 144.39895980915946), with radius = 6.292758548539915
 INFO:root:nearby empty planets
 INFO:root:1
-INFO:root:Entity Planet (id: 5) at position: (x = 66.30261408941298, y = 86.34314506731876), with radius = 11.918670153714945
+INFO:root:Entity Planet (id: 11) at position: (x = 169.25993530504155, y = 144.39895980915946), with radius = 6.292758548539915
 INFO:root:---NEW TURN---
-INFO:root:All ships 69
-INFO:root:Attack ships 12
-INFO:root:Enemy ships 7
+INFO:root:All ships 36
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 6
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 11) at position: (x = 169.25993530504155, y = 144.39895980915946), with radius = 6.292758548539915
+INFO:root:nearby empty planets
+INFO:root:1
+INFO:root:Entity Planet (id: 11) at position: (x = 169.25993530504155, y = 144.39895980915946), with radius = 6.292758548539915
+INFO:root:---NEW TURN---
+INFO:root:All ships 36
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 6
 INFO:root:defcap empty list
 INFO:root:nearby empty planets
 INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 70
-INFO:root:Attack ships 12
-INFO:root:Enemy ships 8
+INFO:root:All ships 36
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 6
 INFO:root:defcap empty list
 INFO:root:nearby empty planets
 INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 70
-INFO:root:Attack ships 12
-INFO:root:Enemy ships 8
+INFO:root:All ships 37
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 6
 INFO:root:defcap empty list
 INFO:root:nearby empty planets
 INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 70
-INFO:root:Attack ships 12
+INFO:root:All ships 37
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 6
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 37
+INFO:root:Attack ships 6
+INFO:root:Enemy ships 6
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 38
+INFO:root:Attack ships 7
 INFO:root:Enemy ships 5
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 10) at position: (x = 38.84512751682021, y = 37.27128956825491), with radius = 9.737877640222699
 INFO:root:nearby empty planets
-INFO:root:1
-INFO:root:Entity Planet (id: 10) at position: (x = 38.84512751682021, y = 37.27128956825491), with radius = 9.737877640222699
+INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 69
-INFO:root:Attack ships 12
+INFO:root:All ships 39
+INFO:root:Attack ships 7
 INFO:root:Enemy ships 4
 INFO:root:defcap empty list
-INFO:root:Entity Planet (id: 10) at position: (x = 38.84512751682021, y = 37.27128956825491), with radius = 9.737877640222699
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 39
+INFO:root:Attack ships 7
+INFO:root:Enemy ships 3
+INFO:root:defcap empty list
+INFO:root:Entity Planet (id: 6) at position: (x = 196.85024561890725, y = 67.39067581033231), with radius = 6.451701643634192
 INFO:root:nearby empty planets
 INFO:root:1
-INFO:root:Entity Planet (id: 10) at position: (x = 38.84512751682021, y = 37.27128956825491), with radius = 9.737877640222699
+INFO:root:Entity Planet (id: 6) at position: (x = 196.85024561890725, y = 67.39067581033231), with radius = 6.451701643634192
 INFO:root:---NEW TURN---
-INFO:root:All ships 68
-INFO:root:Attack ships 12
+INFO:root:All ships 39
+INFO:root:Attack ships 7
 INFO:root:Enemy ships 3
 INFO:root:defcap empty list
 INFO:root:nearby empty planets
 INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 69
-INFO:root:Attack ships 12
+INFO:root:All ships 39
+INFO:root:Attack ships 7
 INFO:root:Enemy ships 3
 INFO:root:defcap empty list
 INFO:root:nearby empty planets
 INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 70
-INFO:root:Attack ships 12
-INFO:root:Enemy ships 2
+INFO:root:All ships 41
+INFO:root:Attack ships 7
+INFO:root:Enemy ships 3
 INFO:root:defcap empty list
 INFO:root:nearby empty planets
 INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 71
-INFO:root:Attack ships 12
-INFO:root:Enemy ships 2
+INFO:root:All ships 41
+INFO:root:Attack ships 7
+INFO:root:Enemy ships 3
 INFO:root:defcap empty list
 INFO:root:nearby empty planets
 INFO:root:0
 INFO:root:---NEW TURN---
-INFO:root:All ships 69
-INFO:root:Attack ships 12
+INFO:root:All ships 41
+INFO:root:Attack ships 7
+INFO:root:Enemy ships 3
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 41
+INFO:root:Attack ships 7
+INFO:root:Enemy ships 3
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 42
+INFO:root:Attack ships 7
+INFO:root:Enemy ships 3
+INFO:root:defcap empty list
+INFO:root:nearby empty planets
+INFO:root:0
+INFO:root:---NEW TURN---
+INFO:root:All ships 43
+INFO:root:Attack ships 7
 INFO:root:Enemy ships 1
 INFO:root:defcap empty list
 INFO:root:nearby empty planets

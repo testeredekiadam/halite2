@@ -1,9 +1,9 @@
-# nearby_empty_planets = [nearby_entities[distance][0] for distance in nearby_entities
-#                                 if
-#                                 isinstance(nearby_entities[distance][0], hlt.entity.Planet)
-#                                 and not nearby_entities[distance][0].is_owned()]
-#
-# nearby_entities = OrderedDict(sorted(nearby_entities.items(), key=lambda t: t[0]))
+# Firat Erkol – 219204648
+# Finn Doose-Bruns - 220200432
+# Fiona Stürzekarn – 220200224
+# Iana Mazur - 219204806
+# Tobias Edrich - 218201941
+
 import hlt
 import logging
 from collections import OrderedDict
@@ -41,8 +41,3 @@ class Search:
         attack_list = OrderedDict(sorted(attack_list.items(), key=lambda t: t[0]))
 
         return attack_list
-
-    @staticmethod
-    def minimax(ship, nearby_empty_planets):
-        for planet in nearby_empty_planets:
-            pass
