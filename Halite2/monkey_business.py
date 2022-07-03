@@ -70,16 +70,25 @@ while True:
         # ship assignment
         assign.Assign.assign_ship(ship, defcap_ships, attack_ships)
 
-
+        # my_planets_less_resources = [pln for pln in game_map.all_planets()
+        #                              if pln.is_owned()
+        #                              and pln.owner == ship.owner
+        #                              and pln.remaining_resources <= 10
+        #                              and len(pln.all_docked_ships()) > 1]
+        #
+        # for planet in my_planets_less_resources:
         # If the ship is docked
         if ship.docking_status != ship.DockingStatus.UNDOCKED:
-            # Skip this ship
             continue
 
         # planets for defcap ships
         defcap_empty_planets = search.Search.defcap_planet_search(ship, game_map)
         defcap_empty_planets_list = [defcap_empty_planets[distance][0] for distance in defcap_empty_planets]
 
+        # ships for attack ships
+        attack_ships_target_planets = search.Search.attack_ship_search(ship, game_map)
+        attack_ships_target_planets_list = [attack_ships_target_planets[distance][0] for distance in
+                                            attack_ships_target_planets]
 
         # get entities by distance
         nearby_entities = game_map.nearby_entities_by_distance(ship)
@@ -112,7 +121,6 @@ while True:
                                  if isinstance(nearby_entities[distance][0], hlt.entity.Ship)
                                  and nearby_entities[distance][0] in my_ships]
 
-
         # mine if there is free docking place
 
         # find closest empty planets and capture them
@@ -144,7 +152,7 @@ while True:
 
                 if navigate_command:
                     command_queue.append(navigate_command)
-                    assign.Assign.assign_planet(captured_planets, target_planet)
+                    captured_planets.append(target_planet)
 
         elif len(defcap_empty_planets_list) > 0:
             target_planet = defcap_empty_planets_list[0]
@@ -189,17 +197,15 @@ while True:
     logging.info("Attack ships %d" % len(attack_ships))
     logging.info("Enemy ships %d" % len(enemy_ships))
     logging.info("defcap empty list")
-    if len(defcap_empty_planets_list)>0:
+    if len(defcap_empty_planets_list) > 0:
         logging.info(defcap_empty_planets_list[0])
     # logging.info("nearby entity")
     # logging.info(nearby_entities)
     logging.info("nearby empty planets")
-    if len(nearby_empty_planets)>0:
+    logging.info(len(nearby_empty_planets))
+    if len(nearby_empty_planets) > 0:
         logging.info(nearby_empty_planets[0])
 
     game.send_command_queue(command_queue)
     # TURN END
 # GAME END
-
-
-
